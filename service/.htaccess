@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^getall/?$ ./apis/get_all_task_api.php [NC,L]
